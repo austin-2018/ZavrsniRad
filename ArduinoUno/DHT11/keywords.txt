@@ -1,0 +1,4 @@
+SKDHT11	KEYWORD1
+begin	KEYWORD2
+Temperature	KEYWORD2
+Humidity	KEYWORD2
